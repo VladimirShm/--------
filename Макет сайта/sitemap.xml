@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://nke.com/index.html</loc>
+    <lastmod>2017-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nke.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/logoabama.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/quality-500950_1280.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/%D0%BE7856.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/593647___lovely_x_cation___yoshinoya_seine.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/adsc4b1z22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nke.com/images/logoabama2.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
